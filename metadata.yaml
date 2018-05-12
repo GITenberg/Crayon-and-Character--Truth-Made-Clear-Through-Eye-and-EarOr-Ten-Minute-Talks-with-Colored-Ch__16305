@@ -1,0 +1,31 @@
+_repo: Crayon-and-Character--Truth-Made-Clear-Through-Eye-and-EarOr-Ten-Minute-Talks-with-Colored-Ch__16305
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Griswold, B. J. (Bert Joseph)
+    alias: Griswold, Bert Joseph
+    birthdate: 1873
+    deathdate: 1927
+    gutenberg_agent_id: '6607'
+    url: http://www.gutenberg.org/2009/agents/6607
+description: ''
+gutenberg_issued: '2005-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16305'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Moral education'
+- !lcsh 'Chalk-talks'
+- !lcc 'BV'
+- !lcsh 'Religious education'
+title: 'Crayon and Character: Truth Made Clear Through Eye and Ear
+
+  Or, Ten-Minute Talks with Colored Chalks'
+url: http://www.gutenberg.org/ebooks/16305
