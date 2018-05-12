@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6607'
     url: http://www.gutenberg.org/2009/agents/6607
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16305#Crayon-and-Character--Truth-Made-Clear-Through-Eye-and-EarOr-Ten-Minute-Talks-with-Colored-Ch_
 gutenberg_issued: '2005-07-15'
 gutenberg_type: Text
 identifiers:
